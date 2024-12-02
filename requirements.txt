@@ -1,0 +1,15 @@
+-e git+https://github.com/MiTo0o/AdventOfCode-template.git@e2690bb882a090a51256bfde894a4b75f13f3159#egg=advent&subdirectory=Advent
+beautifulsoup4==4.11.1
+certifi==2022.12.7
+charset-normalizer==2.1.1
+docopt==0.6.2
+idna==3.4
+numpy==1.23.5
+python-dotenv==0.21.0
+pytz==2022.6
+requests==2.28.1
+soupsieve==2.3.2.post1
+termcolor==2.1.1
+urllib3==1.26.13
+-e git+https://github.com/MiTo0o/AdventOfCode-template.git@e2690bb882a090a51256bfde894a4b75f13f3159#egg=util&subdirectory=Util
+yarg==0.1.9

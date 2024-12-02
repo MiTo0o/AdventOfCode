@@ -1,0 +1,7 @@
+from advent import Advent
+
+day = Advent(2022, 12, example=True, file=__file__)
+
+    sheeesh
+
+xdd

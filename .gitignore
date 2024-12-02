@@ -1,0 +1,10 @@
+.venv
+__pycache__
+.env
+*.egg-info/
+
+# /Advent
+# get_input.py
+# /Util
+# comment this out while using the template
+[0-9]*/
